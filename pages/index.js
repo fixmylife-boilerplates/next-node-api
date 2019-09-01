@@ -8,7 +8,7 @@ const Index = () => {
       </Head>
       <div className="navigationContainer">
         <a className="portfolio" href="https://www.duranirving.com/">
-          DuranIrving.com
+          <h2>DuranIrving.com</h2>
         </a>
 
         <nav className="navigation">
@@ -66,11 +66,11 @@ const Index = () => {
               ></iframe>
             </div>
             <div className="textContainer">
-              <h5>
+              <h3>
                 "This tutorial goes through the steps of downloading and setting
                 up out Next Js app. In just a few minutes you can get start and
                 depoly an app alongside with a server."
-              </h5>
+              </h3>
             </div>
           </div>
         </div>
